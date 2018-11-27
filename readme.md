@@ -1,0 +1,1 @@
+This website was developed as an example of client/developer relationship practice. The client has a site established on SquareSpace and domain name is Bellamage.com and blog location as Bellamage.org.
